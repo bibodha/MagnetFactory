@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Magnet Factory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_magnet_factory">Magnet Factory</string>
+    <string name="newGameButton">New Game</string>
+    <string name="settingsButton">Settings</string>
+    <string name="statsButton">Stats</string>
+    <string name="howToPlayButton">How To Play</string>
+    <string name="howToFirst">Put left and right magnet together to score.</string>
+    <string name="howToSecond">Put middle pieces to get more points.</string>
+    <string name="score">Scores</string>
+    <string name="and">and</string>
+    <string name="onePoint">1 point each</string>
+    <string name="twoPoints">2 points each</string>
+
+</resources>
